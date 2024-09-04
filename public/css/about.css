@@ -1,0 +1,66 @@
+.about-section {
+    width: 100%;
+    padding: 50px 10vw;
+    /* background-color: blueviolet; */
+}
+
+.about {
+    margin-top: 50px;
+    width: 100%;
+    /* height: 80vh; */
+    background-color: rgb(238, 238, 238);
+    border-radius: 40px;
+    display: flex;
+    padding: 80px 5vw;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.about-us {
+    padding: 10px;
+}
+
+.about-us h1 {
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+
+.about-us p {
+    line-height: 30px;
+    font-size: 20px;
+    margin: 20px 0;
+    text-align: justify;
+}
+
+.welcome {
+    font-size: 23px;
+    font-weight: bolder;
+}
+.about-us .founder{
+    margin: 0px;
+    font-size: 18px;
+}
+@media (max-width:800px) {
+    .about-us h1 {
+        font-size: 30px;
+        padding-bottom: 10px;
+    }
+
+    .about-us p {
+        line-height: 25px;
+        font-size: 15px;
+        margin: 15px 0;
+    }
+
+    .about-us .founder{
+        font-size: 13px;
+    }
+    .welcome {
+        font-size: 16px;
+        font-weight: bolder;
+    }
+
+    .about {
+        padding: 50px 5vw;
+    }
+}

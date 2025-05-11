@@ -1,14 +1,6 @@
-**Name:** SUBHRAJIT ROUT
-**Company:** CODTECH IT SOLUTIONS
-**ID:** CT6WFSWD346
-**Domain:** Full Stack Web Development
-**Duration:** July to September 2024
-**Mentor:** Neela Santhosh Kumar
+
 
 ## Overview of the Project
-
-
-### Project: Create a Blogging Platform
 
 ![Screenshot 2024-09-04 184504](https://github.com/user-attachments/assets/a55caa2a-00b3-4682-86cd-0f430f10a775)
 
